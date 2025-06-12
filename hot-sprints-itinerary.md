@@ -1,5 +1,9 @@
 # Hot Springs National Park Itinerary
 
+## Date
+
+June 19, 2025 - June 22, 2025
+
 ## Location
 Hot Springs, Arkansas
 
